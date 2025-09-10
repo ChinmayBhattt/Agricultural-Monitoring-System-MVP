@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Agricultural-Monitoring-System-MVP
-=======
 # 🌾 Agricultural Monitoring System MVP
 
 An AI-powered platform for monitoring crop health, soil conditions, and pest risks using multispectral/hyperspectral imaging and sensor data fusion.
